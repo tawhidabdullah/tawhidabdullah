@@ -1,7 +1,21 @@
+<h1 align="center">Hi 👋, I'm Tawhid Abdullah</h1>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+
 <a href="https://www.linkedin.com/in/tawhidabdullah">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=tawhidabdullah&show_icons=true&theme=react" alt="Tawhid's github stats" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidabdullah&layout=compact&theme=react" alt="Tawhid's top languages" />
 </a>
+
+
+- 🔭 I’m currently working on [Ovechr](https://ovechr.com/)
+
+- 🌱 I’m currently learning **System Design & Architecture**
+
+- 📝 I regularly write articles on [https://raikusy.github.io](https://raikusy.github.io)
+
+- 💬 Ask me about **react, next, nest, node, docker**
+
+- 📫 How to reach me **xenax.rakibul@gmail.com**
 
 
 <!--
