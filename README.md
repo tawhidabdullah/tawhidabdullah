@@ -1,4 +1,8 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/welly-shen-8b43287a">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=tawhidabdullah&show_icons=true&theme=react" alt="Tawhid's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidabdullah&layout=compact&theme=react" alt="Tawhid's top languages" />
+</a>
+
 
 <!--
 **tawhidabdullah/tawhidabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
