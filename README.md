@@ -8,7 +8,7 @@
 </a>
 
 
-- 🔭 I’m currently working on [Clinios](http://clinios.com/)
+- 🔭 I’m currently working on [Seodapop](https://seodapop.com/)
 
 - 🌱 I’m currently learning **System Design & Architecture**
 
