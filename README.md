@@ -8,11 +8,9 @@
 </a>
 
 
-- 🔭 I’m currently working on [Seodapop](https://seodapop.com/)
-
 - 🌱 I’m currently learning **System Design & Architecture**
 
-- 💬 Ask me about **react, next, nest, node, docker**
+- 💬 Ask me about **typescript, aws-lambda, react, next, nest, node, docker**
 
 - 📫 How to reach me **tawhidabdullah22@gmail.com**
 
